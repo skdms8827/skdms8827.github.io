@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Naeun Kim
-title: 올라운더 개발자가 되고 싶은 김나은입니다.
+title: IT시대를 선도할 수 있는 개발자가 되고 싶습니다.
 email: skdms8827@naver.com
 # email_title: Email (Email title override)
 phone: 010.9278.3768
@@ -24,8 +24,8 @@ googlescholar_username: D847cGsAAAAJ
 
 
 # About Section
-about_title: About Me (Use this to override about section title)
-about_profile_image: images/profile.png
+# about_title: About Me (Use this to override about section title)
+about_profile_image: images/profile.PNG
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
