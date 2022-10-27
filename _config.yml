@@ -98,23 +98,22 @@ content:
       
         description: | # this will include new lines to allow paragraphs
           - #### **2018**
-            - 컴퓨터공학과 학생회 홍보부원  
+            - 컴퓨터공학과 학생회 홍보부원     
           
           
           - #### **2019**
-            - 컴퓨터공학과 학생회 홍보국장  
+            - 컴퓨터공학과 학생회 홍보국장      
           
           
           - #### **2022**
-            - 소프트융합대학 학생회 복지부원
-            - 중앙선거관리위원회 부위원장  
+            - 소프트융합대학 학생회 복지부원     
+            - 중앙선거관리위원회 부위원장        
           
           
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      :trophy: <mark>수상경력</mark>
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
