@@ -42,7 +42,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: 개인 맞춤 장학금 추천 애플리케이션
+        title: **개인 맞춤 장학금 추천 애플리케이션**
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: 안드로이드 스튜디오. 코틀린
 
@@ -55,7 +55,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: 전국 공항의 주차장 혼잡도
+        title: **전국 공항의 주차장 혼잡도**
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: IoT 프로토콜 MQTT
 
@@ -67,7 +67,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: 블로그 만들기
+        title: **블로그 만들기**
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: HTML CSS JavaScript
 
@@ -79,7 +79,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: 장애물 피하기 게임
+        title: **장애물 피하기 게임**
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: WebGL
 
