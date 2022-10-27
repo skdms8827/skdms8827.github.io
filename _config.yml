@@ -96,7 +96,17 @@ content:
         sub_title: 컴퓨터공학/빅데이터전공
         caption: 2018.3 ~
         quote: >
-          Short institution or course description (optional)
+          - #### 2018
+          * 컴퓨터공학과 학생회 홍보부원
+          
+          - #### 2019
+          * 컴퓨터공학과 학생회 홍보국장
+          
+          - #### 2022
+          * 소프트융합대학 학생회 복지부원
+          * 중앙선거관리위원회 부위원장
+          
+          
         description: | # this will include new lines to allow paragraphs
           
   - title: A Little More About Me
