@@ -47,22 +47,35 @@ content:
         link_text: 안드로이드 스튜디오. 코틀린
 
         description: | # this will include new lines to allow paragraphs
-          기준이 까다롭고 놓치기 쉬운 장학금. 기본 정보만 입력하면 수혜할 수 있는 장학금을 찾아준다!
+          ##### 기준이 까다롭고 놓치기 쉬운 장학금. 기본 정보만 입력하면 수혜할 수 있는 장학금을 찾아준다!
           
-          Images ![alt text](/images/scholar2.jpg)
+          ![alt text](/images/scholar2.jpg)
+          
+          
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: 전국 공항의 주차장 혼잡도
+        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: IoT 프로토콜 MQTT
+
+        description: | # this will include new lines to allow paragraphs
+          ##### 기준이 까다롭고 놓치기 쉬운 장학금. 기본 정보만 입력하면 수혜할 수 있는 장학금을 찾아준다!
+          
+          ![alt text](/images/mqtt.png)
           
  
   - title: Education
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: Hallym University
+        sub_title: 컴퓨터공학/빅데이터전공
+        caption: 2018.3 ~
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
