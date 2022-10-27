@@ -7,7 +7,11 @@ version: 2
 
 # Personal info
 name: Naeun Kim
+<<<<<<< HEAD
 title: ttttttttttttttttttttttttt
+=======
+title: Your job title
+>>>>>>> refs/remotes/origin/master
 email: Your email (optional)
 # email_title: Email (Email title override)
 phone: Your phone number (optional)
