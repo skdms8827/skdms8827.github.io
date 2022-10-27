@@ -27,7 +27,7 @@ googlescholar_username: D847cGsAAAAJ
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.PNG
 about_content: | # this will include new lines to allow paragraphs
-  > #### **저는 어떤 문제든 겁 먹지 않고 도전하는 사람입니다.**
+  > #### :**저는 어떤 문제든 겁 먹지 않고 도전하는 사람입니다.**
    
   > #### **코딩하고 디버깅하는 것을 즐길 줄 아는 사람입니다.**
   
@@ -96,18 +96,9 @@ content:
         sub_title: 컴퓨터공학/빅데이터전공
         caption: 2018.3 ~
         quote: >
-          - #### 2018
-          * 컴퓨터공학과 학생회 홍보부원
-          
-          - #### 2019
-          * 컴퓨터공학과 학생회 홍보국장
-          
-          - #### 2022
-          * 소프트융합대학 학생회 복지부원
-          * 중앙선거관리위원회 부위원장
-          
-          
+          Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
+        
           
   - title: A Little More About Me
     layout: text
