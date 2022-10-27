@@ -27,7 +27,7 @@ googlescholar_username: D847cGsAAAAJ
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.PNG
 about_content: | # this will include new lines to allow paragraphs
-  > #### :**저는 어떤 문제든 겁 먹지 않고 도전하는 사람입니다.**
+  > #### :sparles: **저는 어떤 문제든 겁 먹지 않고 도전하는 사람입니다.**
    
   > #### **코딩하고 디버깅하는 것을 즐길 줄 아는 사람입니다.**
   
@@ -88,7 +88,7 @@ content:
           
           ![alt text](/images/webgl.jpg)
  
-  - title: Education
+   - title: Education
     layout: list
     content:
       - layout: top-right
