@@ -27,7 +27,7 @@ googlescholar_username: D847cGsAAAAJ
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.PNG
 about_content: | # this will include new lines to allow paragraphs
-  > #### **저는 어떤 문제든 겁 먹지 않고 도전하는 사람입니다.**
+:sparkles:   #### **저는 어떤 문제든 겁 먹지 않고 도전하는 사람입니다.**
    
   > #### **코딩하고 디버깅하는 것을 즐길 줄 아는 사람입니다.**
   
@@ -47,7 +47,7 @@ content:
         link_text: 안드로이드 스튜디오. 코틀린
 
         description: | # this will include new lines to allow paragraphs
-          ##### 기준이 까다롭고 놓치기 쉬운 장학금. 기본 정보만 입력하면 수혜할 수 있는 장학금을 찾아준다!
+          #### 기준이 까다롭고 놓치기 쉬운 장학금. 기본 정보만 입력하면 수혜할 수 있는 장학금을 찾아준다!
           
           ![alt text](/images/scholar2.jpg)
           
@@ -60,10 +60,33 @@ content:
         link_text: IoT 프로토콜 MQTT
 
         description: | # this will include new lines to allow paragraphs
-          ##### 기준이 까다롭고 놓치기 쉬운 장학금. 기본 정보만 입력하면 수혜할 수 있는 장학금을 찾아준다!
+          ##### MonggoDB와 MQTT 프로토콜을 사용해 실시간으로 전국 주차장의 혼잡도를 구현!
           
-          ![alt text](/images/mqtt.png)
+          ![alt text](/images/mqtt1.png)
           
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: 블로그 만들기
+        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: HTML CSS JavaScript
+
+        description: | # this will include new lines to allow paragraphs
+          ##### HTML CSS JavaScript를 사용하여 간단한 블로그를 만들어 보았다!
+          
+          ![alt text](/images/vlog.jpg)
+          
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: 장애물 피하기 게임
+        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: WebGL
+
+        description: | # this will include new lines to allow paragraphs
+          ##### WebGL 기반으로 간단한 게임 구현!
+          
+          ![alt text](/images/webgl.jpg)
  
   - title: Education
     layout: list
