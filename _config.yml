@@ -98,16 +98,12 @@ content:
       
         description: | # this will include new lines to allow paragraphs
           - #### **2018**
-            - 컴퓨터공학과 학생회 홍보부원     
-          
-          
+            - 컴퓨터공학과 학생회 홍보부원<br>     
           - #### **2019**
-            - 컴퓨터공학과 학생회 홍보국장      
-          
-          
+            - 컴퓨터공학과 학생회 홍보국장<br>    
           - #### **2022**
             - 소프트융합대학 학생회 복지부원     
-            - 중앙선거관리위원회 부위원장        
+            - 중앙선거관리위원회 부위원장<br>        
           
           
   - title: A Little More About Me
