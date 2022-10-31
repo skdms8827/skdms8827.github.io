@@ -113,7 +113,9 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      :trophy: <mark>수상경력</mark>
+      ### 💫 <mark>수상경력</mark>
+      - 2022 캡스톤디자인 은상 수상
+      - 2021 창업아이디어 경진대회 금상 수상
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
