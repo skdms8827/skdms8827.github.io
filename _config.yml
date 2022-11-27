@@ -108,12 +108,12 @@ content:
         link_text:
 
         description: | # this will include new lines to allow paragraphs
-          #### **정신건강의 중요성을 알리고 관리할 수 있는 웹 서비스 구현(진행중)**<br/><br/>
+          #### **정신건강의 중요성을 알리고 관리할 수 있는 웹 서비스 '위로 (진행중)**<br/><br/>
           #### "메인 페이지 구현 담당"<br/><br/>
           #### - 부트스트랩과 워드프레스를 이용한 프론트엔드 구현
           #### - Nodejs와 MongoDB를 이용한 백엔드 구현<br/><br/>
         
-          ![alt text](/images/caerang.jpg)
+          ![alt text](/images/wewith.jpg)
  
   - title: Education
     layout: list
