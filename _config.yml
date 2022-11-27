@@ -108,8 +108,8 @@ content:
       
         description: | # this will include new lines to allow paragraphs
           ### <mark>2018<mark/>
-           - 컴퓨터공학과 학생회 '세미콜론' 홍보부원
-            #### - 학과 내 행사 공지사항 PPT 제작
+           - ### __컴퓨터공학과 학생회 '세미콜론' 홍보부원__
+              #### __- 학과 내 행사 공지사항 PPT 제작__
            
           ### <mark>2019<mark/>
             - 컴퓨터공학과 학생회 홍보국장
