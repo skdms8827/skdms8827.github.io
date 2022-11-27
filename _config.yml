@@ -35,9 +35,7 @@ about_content: | # this will include new lines to allow paragraphs
   
   > #### ✨**&nbsp;무한한 가능성과 잠재력을 가지고 있습니다.**<br/><br/>
   
-  💫 <mark>수상경력</mark>
-      - #### 2022 캡스톤디자인 은상 수상
-      - #### 2021 창업아이디어 경진대회 금상 수상
+
       
 content:
   - title: Projects # Title for the section
@@ -150,6 +148,10 @@ content:
             | 5 | C++ 프로그래밍 | 11 | SW 하드웨어 응용 |
             | 6 |인공지능 | 12 | 컴퓨터 그래픽스 |
             
+          # 💫 <mark>수상경력</mark><br/><br/>
+            - #### 2022 캡스톤디자인 은상 수상
+            - #### 2021 창업아이디어 경진대회 금상 수상
+
           
       
 # Footer
