@@ -25,6 +25,7 @@ github_username: skdms8827
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.PNG
 about_content: | # this will include new lines to allow paragraphs
+#### "나의 가능성은 내가 만들어 내는 것이다""<
   > #### ✨ **&nbsp;저는 어떤 문제든 겁 먹지 않고 도전합니다.**
    
   > #### ✨**&nbsp;언제나 배우고 탐구하려는 자세를 갖추고 있습니다.**
@@ -41,10 +42,10 @@ content:
                       # other value (or no value) means no border will be displayed
         title: 개인 맞춤 장학금 추천 애플리케이션
         link: https://github.com/skdms8827/ShcolarLike
-        link_text: 장학라이크
+        
 
         description: | # this will include new lines to allow paragraphs
-          #### **기준이 까다롭고 놓치기 쉬운 장학금. 기본 정보만 입력하면 수혜할 수 있는 장학금 리스트 제공**<br/><br/>
+          #### **개인 맞춘 장학금 추천 애플리케이션 *"장학라이크"* **<br/><br/>
           #### - 코틀린 기반 안드로이드 스튜디오
           #### - 파이어베이스로 데이터 저장 및 관리<br/><br/> 
           
@@ -84,7 +85,7 @@ content:
                       # other value (or no value) means no border will be displayed
         title: 장애물 피하기 게임
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text:
+       
 
         description: | # this will include new lines to allow paragraphs
           #### 상하좌우를 움직이는 장애물을 피해 최종 목적이에 도착하면 성공!<br/><br/>
