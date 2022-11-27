@@ -108,11 +108,11 @@ content:
       
         description: | # this will include new lines to allow paragraphs
           ### <mark>2018<mark/>
-            - ### 컴퓨터공학과 학생회 홍보부장
+            - #### **컴퓨터공학과 학생회 홍보부장**
               #### __- 학과 내 행사 공지사항 PPT 제작__<br/><br/>
            
           ### <mark>2019<mark/>
-            - ### 컴퓨터공학과 학생회 홍보국장
+            - #### **컴퓨터공학과 학생회 홍보국장**
               #### - 학과 내 행사 공지사항 PPT 제작<br/><br/>
               
             - 학술동아리 NONAME 임원
