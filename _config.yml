@@ -40,7 +40,7 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: **개인 맞춤 장학금 추천 애플리케이션**
-        link: https://github.com/skdms8827/ShcolarLike
+        link: skdms8827/ShcolarLike
         link_text: #####장학라이크 보러가기
 
         description: | # this will include new lines to allow paragraphs
@@ -55,7 +55,7 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: 전국 공항의 주차장<br/> 혼잡도
-        link: https://github.com/skdms8827/ShcolarLike
+        link: skdms8827/ShcolarLike
         link_text:  ##### 주차장 혼잡도 보러가기
 
         description: | # this will include new lines to allow paragraphs
