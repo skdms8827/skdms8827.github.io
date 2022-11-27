@@ -34,6 +34,11 @@ about_content: | # this will include new lines to allow paragraphs
   > #### ✨**&nbsp;코딩과 디버깅하는 것을 즐기고 있습니다.**
   
   > #### ✨**&nbsp;무한한 가능성과 잠재력을 가지고 있습니다.**
+  
+  ### 💫 <mark>수상경력</mark>
+      - #### 2022 캡스톤디자인 은상 수상
+      - #### 2021 창업아이디어 경진대회 금상 수상
+      
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -136,7 +141,7 @@ content:
             
           # <mark>전공 수업<mark/><br/><br/>  
           
-            |## 번호|## 과목명|## 번호|## 과목명|
+            | 번호 | 과목명 | 번호 | 과목명 |
             |:---:|:---:|:---:|:---:|
             | 1 | 컴퓨터 네트워크 | 7 | IoT 네트워크 |
             | 2 | 운영체제 | 8 | 웹프로그래밍 |
@@ -146,13 +151,7 @@ content:
             | 6 |인공지능 | 12 | 컴퓨터 그래픽스 |
             
           
-          
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      ### 💫 <mark>수상경력</mark>
-      - 2022 캡스톤디자인 은상 수상
-      - 2021 창업아이디어 경진대회 금상 수상
+      
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
