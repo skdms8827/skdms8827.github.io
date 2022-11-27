@@ -25,7 +25,6 @@ github_username: skdms8827
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.PNG
 about_content: | # this will include new lines to allow paragraphs
-#### "나의 가능성은 내가 만들어 내는 것이다""<
   > #### ✨ **&nbsp;저는 어떤 문제든 겁 먹지 않고 도전합니다.**
    
   > #### ✨**&nbsp;언제나 배우고 탐구하려는 자세를 갖추고 있습니다.**
@@ -41,11 +40,12 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: 개인 맞춤 장학금 추천 애플리케이션
-        link: https://github.com/skdms8827/ShcolarLike
-        link_text:
+        link: #
+        link_text: 
 
         description: | # this will include new lines to allow paragraphs
-          #### **개인 맞춘 장학금 추천 애플리케이션 *"장학라이크"* **<br/><br/>
+          #### **사용자의 조건에 맞는 장학금을 찾아주는 애플리케이션 "장학라이크"**<br/><br/>
+          #### "사용자가 입력하는 조건으로 수혜할 수 있는 장학금을 찾는 메인 기능 담당"
           #### - 코틀린 기반 안드로이드 스튜디오
           #### - 파이어베이스로 데이터 저장 및 관리<br/><br/> 
           
@@ -83,13 +83,15 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: 장애물 피하기 게임
+        title: 소프트웨어 전시회
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text:
 
         description: | # this will include new lines to allow paragraphs
-          #### **상하좌우를 움직이는 장애물을 피해 최종 목적지에 도달하기!**<br/><br/>
-          #### - WebGL 기반 컴퓨터 <br/><br/>
+          #### 학술동아리 씨애랑 동아리의 소프트웨어 전시회 홈페이지<br/><br/>
+          #### "팀별 작품 소개, 작품 등록 및 수정 페이지 구현"
+          #### - HTML, CSS, JavaScript를 이용한 웹 프로그래밍
+          #### - 반응형 웹 서비스 구현
           
           
           ![alt text](/images/webgl.jpg)
