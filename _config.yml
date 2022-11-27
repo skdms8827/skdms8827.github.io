@@ -31,7 +31,7 @@ about_content: | # this will include new lines to allow paragraphs
   
   > #### ✨**&nbsp;코딩과 디버깅하는 것을 즐기고 있습니다.**
   
-  > #### ✨**&nbsp;무한한 가능성과 잠재력을 가지고 있습니다. **
+  > #### ✨**&nbsp;무한한 가능성과 잠재력을 가지고 있습니다.**
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -39,12 +39,14 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: 개인 맞춤 장학금 추천 애플리케이션
+        title: **개인 맞춤 장학금 추천 애플리케이션**
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: 안드로이드 스튜디오. 코틀린
+        link_text: 
 
         description: | # this will include new lines to allow paragraphs
-          #### 기준이 까다롭고 놓치기 쉬운 장학금. 기본 정보만 입력하면 수혜할 수 있는 장학금을 찾아준다!
+           #### **기준이 까다롭고 놓치기 쉬운 장학금. 기본 정보만 입력하면 수혜할 수 있는 장학금을 리스트를 한눈에 확인할 수 있다.**
+          - #### 코틀린을 이용한 안드로이드 스튜디오
+          - #### 파이어베이스로 데이터 관리 및 구
           
           ![alt text](/images/scholar2.jpg)
           
