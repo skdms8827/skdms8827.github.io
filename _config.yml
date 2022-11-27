@@ -44,7 +44,9 @@ content:
         link_text: 안드로이드 스튜디오. 코틀린
 
         description: | # this will include new lines to allow paragraphs
-          #### 기준이 까다롭고 놓치기 쉬운 장학금. 기본 정보만 입력하면 수혜할 수 있는 장학금을 찾아준다!
+          #### **기준이 까다롭고 놓치기 쉬운 장학금. 기본 정보만 입력하면 수혜할 수 있는 장학금 리스트 제공**
+          * 코틀린 기반 안드로이드 스튜디오
+          * 파이어베이스로 데이터 관리 및 
           
           ![alt text](/images/scholar2.jpg)
           
