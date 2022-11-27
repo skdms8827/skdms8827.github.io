@@ -93,10 +93,25 @@ content:
         link_text:
 
         description: | # this will include new lines to allow paragraphs
-          #### **학술동아리 씨애랑 동아리의 소프트웨어 전시회 홈페이지**<br/><br/>
+          #### **학술동아리 씨애랑 동아리의 소프트웨어 전시회 홈페이지 구현(진행중)**<br/><br/>
           #### "팀별 작품 소개, 작품 등록 및 수정 페이지 구현"<br/><br/>
           #### - HTML, CSS, JavaScript를 이용한 웹 프로그래밍
           #### - 반응형 웹 서비스 구현<br/><br/>
+        
+          ![alt text](/images/caerang.jpg)
+          
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: 건강한 정신건강, 심리를 위한 웹 서비스
+        link: #
+        link_text:
+
+        description: | # this will include new lines to allow paragraphs
+          #### **정신건강의 중요성을 알리고 관리할 수 있는 웹 서비스 구현(진행중)**<br/><br/>
+          #### "메인 페이지 구현 담당"<br/><br/>
+          #### - 부트스트랩과 워드프레스를 이용한 프론트엔드 구현
+          #### - Nodejs와 MongoDB를 이용한 백엔드 구현<br/><br/>
         
           ![alt text](/images/caerang.jpg)
  
@@ -146,10 +161,11 @@ content:
             | 3 | 컴퓨터구조 | 9 | SW 개발도구 응용 |
             | 4 | 오픈소스 리눅스 실무 | 10 | 머신러닝|
             | 5 | C++ 프로그래밍 | 11 | SW 하드웨어 응용 |
-            | 6 |인공지능 | 12 | 컴퓨터 그래픽스 |
+            | 6 |인공지능 | 12 | 컴퓨터 그래픽스 |  
             
             
-          <br/><br/># 💫 <mark>수상 내역</mark><br/><br/>
+            
+          # 💫 <mark>수상 내역</mark><br/><br/>
             - #### **2021 캡스톤디자인 은상 수상**
               #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;개인 맞춤 장학금 추천 애플리케이션 "장학라이크"<br/><br/>
             - #### **2021 창업아이디어 경진대회 금상 수상**
