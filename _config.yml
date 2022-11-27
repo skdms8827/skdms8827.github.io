@@ -39,14 +39,14 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: 개인 맞춤 장학금 추천 애플리케이션
+        title: ### 개인 맞춤 장학금 추천 애플리케이션
         link: https://github.com/skdms8827/ShcolarLike
         link_text: 장학라이크
 
         description: | # this will include new lines to allow paragraphs
           #### **기준이 까다롭고 놓치기 쉬운 장학금. 기본 정보만 입력하면 수혜할 수 있는 장학금 리스트 제공**<br/><br/>
           #### - 코틀린 기반 안드로이드 스튜디오
-          #### - 파이어베이스로 데이터 저장 및 관리 
+          #### - 파이어베이스로 데이터 저장 및 관리<br/><br/> 
           
           ![alt text](/images/scholar2.jpg)
           
@@ -54,39 +54,42 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: 전국 공항의 주차장 혼잡도
+        title: ### 전국 공항의 주차장 혼잡도
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: IoT 프로토콜 MQTT
 
         description: | # this will include new lines to allow paragraphs
-          #### **실시간으로 전국 주차장의 혼잡도를 한눈에 확인할 수 있는 서비스**  
+          #### **실시간으로 전국 주차장의 혼잡도를 한눈에 확인할 수 있는 서비스**<br/><br/> 
           
           #### - MQTT 프로토콜을 사용하여 데이터 구독과 발행
-          #### - MongoDB를 사용하여 데이터 저장 및 
+          #### - MongoDB를 사용하여 데이터 저장 및 관리<br/><br/>
           
           ![alt text](/images/mqtt1.jpg)
           
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: 블로그 만들기
+        title: ### 블로그 제작 웹프로그래밍
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: HTML CSS JavaScript
 
         description: | # this will include new lines to allow paragraphs
-          #### HTML CSS JavaScript를 사용하여 간단한 블로그를 만들어 보았다!
+          #### **프로젝트 소개와 문제 해결 과정을 블로그로 구현**<br/><br/>
+          #### - HTML, CSS, JavaScript를 사용하여 개발<br/><br/>
           
           ![alt text](/images/vlog.jpg)
           
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: 장애물 피하기 게임
+        title: ### 장애물 피하기 게임
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: WebGL
 
         description: | # this will include new lines to allow paragraphs
-          #### WebGL 기반으로 간단한 게임 구현!
+          #### 상하좌우를 움직이는 장애물을 피해 최종 목적이에 도착하면 성공!<br/><br/>
+          #### - WebGL 기반 컴퓨터 <br/><br/>
+          
           
           ![alt text](/images/webgl.jpg)
  
