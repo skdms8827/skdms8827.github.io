@@ -107,9 +107,9 @@ content:
         quote: >
       
         description: | # this will include new lines to allow paragraphs
-          ### <mark>2018<mark/>
-           - ### __컴퓨터공학과 학생회 '세미콜론' 홍보부원__
-              #### __- 학과 내 행사 공지사항 PPT 제작__
+          ### <mark>2019<mark/>
+            - ### 컴퓨터공학과 학생회 홍보부장
+              #### __- 학과 내 행사 공지사항 PPT 제작__<br/><br/>
            
           ### <mark>2019<mark/>
             - 컴퓨터공학과 학생회 홍보국장
