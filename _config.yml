@@ -40,7 +40,7 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: **개인 맞춤 장학금 추천 애플리케이션**
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link: https://github.com/skdms8827/ShcolarLike
         link_text: 
 
         description: | # this will include new lines to allow paragraphs
