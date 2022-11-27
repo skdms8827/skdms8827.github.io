@@ -42,7 +42,7 @@ content:
                       # other value (or no value) means no border will be displayed
         title: 개인 맞춤 장학금 추천 애플리케이션
         link: https://github.com/skdms8827/ShcolarLike
-        
+        link_text:
 
         description: | # this will include new lines to allow paragraphs
           #### **개인 맞춘 장학금 추천 애플리케이션 *"장학라이크"* **<br/><br/>
@@ -85,10 +85,10 @@ content:
                       # other value (or no value) means no border will be displayed
         title: 장애물 피하기 게임
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-       
+        link_text:
 
         description: | # this will include new lines to allow paragraphs
-          #### 상하좌우를 움직이는 장애물을 피해 최종 목적이에 도착하면 성공!<br/><br/>
+          #### **상하좌우를 움직이는 장애물을 피해 최종 목적지에 도달하기!**<br/><br/>
           #### - WebGL 기반 컴퓨터 <br/><br/>
           
           
