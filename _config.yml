@@ -39,14 +39,14 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: **개인 맞춤 장학금 추천 애플리케이션**
-        link: skdms8827/ShcolarLike
-        link_text: #####장학라이크 보러가기
+        title: 개인 맞춤 장학금 추천 애플리케이션
+        link: skdms8827/ScholarLike
+        link_text: 장학라이크
 
         description: | # this will include new lines to allow paragraphs
-          #### **기준이 까다롭고 놓치기 쉬운 장학금. 기본 정보만 입력하면 수혜할 수 있는 장학금 리스트 제공**<br/><br/>
+          #### **기준이 까다롭고 놓치기 쉬운 장학금. 기본 정보만 입력하면 수혜할 수 있는 장학금 리스트 제공**<br/>
           - #### 코틀린 기반 안드로이드 스튜디오
-          - #### 파이어베이스로 데이터 저장 및 관리
+          - #### 파이어베이스로 데이터 저장 및 관리 
           
           ![alt text](/images/scholar2.jpg)
           
@@ -54,15 +54,14 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: 전국 공항의 주차장<br/> 혼잡도
-        link: skdms8827/ShcolarLike
-        link_text:  ##### 주차장 혼잡도 보러가기
+        title: 전국 공항의 주차장 혼잡도
+        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: IoT 프로토콜 MQTT
 
         description: | # this will include new lines to allow paragraphs
-          #### **실시간으로 전국 공항의 혼잡도를 한 눈에 확인할 수 있도록 구현.**<br/><br/>
-          - #### MQTT 프로토콜 기반 구독과 발행으로 구현.
-          - #### MongoDB로 데이터 저장 및 관리
-          
+          #### **실시간으로 전국 주차장의 혼잡도를 한눈에 확인할 수 있는 서비스**
+          - #### MQTT 프로토콜을 사용하여 데이터 구독과 발행
+          - #### MongoDB를 사용하여 데이터 저장 및 
           
           ![alt text](/images/mqtt1.jpg)
           
